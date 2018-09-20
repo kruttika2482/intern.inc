@@ -1,3 +1,1 @@
-# intern.inc
-main
-abcdefg
+
